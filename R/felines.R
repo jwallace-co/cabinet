@@ -20,7 +20,7 @@ cabinet_cat <- function(name) {
 
   } else {
 
-    cat("You've much to learn about government cats.")
+    cat("You've much to learn about government kitties.")
 
   }
 
